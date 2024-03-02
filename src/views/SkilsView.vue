@@ -5,33 +5,33 @@ import SkillCardComponent from '@/components/SkillCardComponent.vue';
 const imgList = ref([
 
 {
-    imgLink :'/Pictures/HTML.svg',
+    imgLink :'../PortfolioWebsite/Pictures/HTML.svg',
     imgName:'HTML',
     imgSkillType:'programmingLanguage',
     imgSkillLink:"https://www.w3schools.com/html"
 },
 {
-    imgLink :'/Pictures/JavaScript.svg',
+    imgLink :'../PortfolioWebsite/Pictures/JavaScript.svg',
     imgName:'Java Script',
     imgSkillType:'programmingLanguage',
     imgSkillLink:"https://www.w3schools.com/js/"
     
 },
 {
-    imgLink :'/Pictures/CSharp.svg',
+    imgLink :'../PortfolioWebsite/Pictures/CSharp.svg',
     imgName:'C#',
      imgSkillType:'programmingLanguage',
      imgSkillLink:"https://www.w3schools.com/cs/index.php"
 },
 
 {
-    imgLink :'/Pictures/CSS.svg',
+    imgLink :'../PortfolioWebsite/Pictures/CSS.svg',
     imgName:'.CSS',
     imgSkillType:'programmingLanguage',
     imgSkillLink:"https://www.w3schools.com/html"
 },
 {
-    imgLink :'/Pictures/AdvancedRestClient.svg',
+    imgLink :'../PortfolioWebsite/Pictures/AdvancedRestClient.svg',
     imgName:'Advanced Rest Client ',
      imgSkillType:'tool',
      imgSkillLink:"https://www.advancedrestclient.com/"
@@ -39,7 +39,7 @@ const imgList = ref([
 },
 
 {
-    imgLink :'/Pictures/DBGate.svg',
+    imgLink :'../PortfolioWebsite/Pictures/DBGate.svg',
     imgName:'DB Gate',
     imgSkillType:'tool',
     imgSkillLink:"https://dbgate.org/"
@@ -48,95 +48,95 @@ const imgList = ref([
 
 
 {
-    imgLink :'/Pictures/MariaDB.svg',
+    imgLink :'../PortfolioWebsite/Pictures/MariaDB.svg',
     imgName:'Maria DB',
     imgSkillType:'database',
     imgSkillLink:"https://mariadb.org/"
 },
 
 {
-    imgLink :'/Pictures/MarsEngine.svg',
+    imgLink :'../PortfolioWebsite/Pictures/MarsEngine.svg',
     imgName:'Mars Engine',
     imgSkillType:'tool',
     imgSkillLink:"https://mars-server.net/"
 },
 {
-    imgLink :'/Pictures/MSSQLSMS.svg',
+    imgLink :'../PortfolioWebsite/Pictures/MSSQLSMS.svg',
     imgName:'MSSQLSMS',
     imgSkillType:'tool',
     imgSkillLink:"https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16"
 },
 
 {
-    imgLink :'/Pictures/MYSQL.svg',
+    imgLink :'../PortfolioWebsite/Pictures/MYSQL.svg',
     imgName:'My SQL',
     imgSkillType:'database',
     imgSkillLink:"https://www.mysql.com/"
 },
 
 {
-    imgLink :'/Pictures/MYSQLWorkbentch.svg',
+    imgLink :'../PortfolioWebsite/Pictures/MYSQLWorkbentch.svg',
     imgName:'My SQL Workbentch',
     imgSkillType:'tool',
     imgSkillLink:"https://www.mysql.com/products/workbench/"
 },
 {
-    imgLink :'/Pictures/Postman.svg',
+    imgLink :'../PortfolioWebsite/Pictures/Postman.svg',
     imgName:'Postman',
     imgSkillType:'tool',
     imgSkillLink:"https://www.postman.com/"
 },
 
 {
-    imgLink :'/Pictures/TSQL.svg',
+    imgLink :'../PortfolioWebsite/Pictures/TSQL.svg',
     imgName:'T-SQL',
     imgSkillType:'database',
     imgSkillLink:"https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16"
 },
 
 {
-    imgLink :'/Pictures/VisualStudio.svg',
+    imgLink :'../PortfolioWebsite/Pictures/VisualStudio.svg',
     imgName:'Visual Studio',
     imgSkillType:'tool',
     imgSkillLink:"https://visualstudio.microsoft.com/"
 },
 
 {
-    imgLink :'/Pictures/VSCode.svg',
+    imgLink :'../PortfolioWebsite/Pictures/VSCode.svg',
     imgName:'VS Code',
     imgSkillType:'tool',
     imgSkillLink:"https://code.visualstudio.com/"
 },
 
 {
-    imgLink :'/Pictures/VueJs.svg',
+    imgLink :'../PortfolioWebsite/Pictures/VueJs.svg',
     imgName:'VueJs',
     imgSkillType:'framework',
     imgSkillLink:"https://vuejs.org/"
 },
 {
-    imgLink :'/Pictures/dotNET.svg',
+    imgLink :'../PortfolioWebsite/Pictures/dotNET.svg',
     imgName:'.NET',
     imgSkillType:'framework',    
     imgSkillLink:"https://dotnet.microsoft.com/en-us/"
 
 },
 {
-    imgLink :'/Pictures/Asp.NETCore.svg',
+    imgLink :'../PortfolioWebsite/Pictures/Asp.NETCore.svg',
     imgName:'Asp .NET Core',
      imgSkillType:'framework',
      imgSkillLink:"https://dotnet.microsoft.com/en-us/apps/aspnet"
 },
 
 {
-    imgLink :'/Pictures/Winforms.svg',
+    imgLink :'../PortfolioWebsite/Pictures/Winforms.svg',
     imgName:'WinForms',
     imgSkillType:'framework',
     imgSkillLink:"https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-8.0"
 },
 
 {
-    imgLink :'/Pictures/Windows.svg',
+    imgLink :'../PortfolioWebsite/Pictures/Windows.svg',
     imgName:'Windows',
     imgSkillType:'tool',
     imgSkillLink:"https://www.microsoft.com/sr-latn-rs/software-download/windows10"
@@ -144,33 +144,33 @@ const imgList = ref([
 
 
 {
-    imgLink :'/Pictures/Git.svg',
+    imgLink :'../PortfolioWebsite/Pictures/Git.svg',
     imgName:'Git',
     imgSkillType:'versionControl',
     imgSkillLink:"https://git-scm.com/"
 },
 
 {
-    imgLink :'/Pictures/GitHub.svg',
+    imgLink :'../PortfolioWebsite/Pictures/GitHub.svg',
     imgName:'Git Hub',
     imgSkillType:'versionControl',
     imgSkillLink:"https://github.com/"
 },
 {
-    imgLink :'/Pictures/Trello.svg',
+    imgLink :'../PortfolioWebsite/Pictures/Trello.svg',
     imgName:'Trello',
     imgSkillType:'tool',
     imgSkillLink:"https://trello.com/"
 },
 {
-    imgLink :'/Pictures/Srbija.svg',
+    imgLink :'../PortfolioWebsite/Pictures/Srbija.svg',
     imgName:'Serbian',
     imgSkillType:'language',
     imgSkillLink:"https://sr.wikipedia.org/sr-ec/%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B8_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA"
 },
 
 {
-    imgLink :'/Pictures/England.svg',
+    imgLink :'../PortfolioWebsite/Pictures/England.svg',
     imgName:'English',
     imgSkillType:'language',
     imgSkillLink:"https://en.wikipedia.org/wiki/English_language"

@@ -15,14 +15,14 @@ import { RouterView,RouterLink } from 'vue-router';
         <div class="CVsDiv">
         
         
-      <a class="downloadCVHyperLink" href="/CV/Boris-Paunovic-CV-Minimalistic.pdf" download="Boris-Paunovic-Minimalistic-CV.pdf">
+      <a class="downloadCVHyperLink" href="../PortfolioWebsite/CV/Boris-Paunovic-CV-Minimalistic.pdf" download="Boris-Paunovic-Minimalistic-CV.pdf">
         <div   class="cvDownloadButton">
          <span class="downloadText">Download Minimalistic CV</span> 
         </div>
       </a>
         
      
-       <a   class="downloadCVHyperLink" href="/CV/Boris-Paunovic-CV-Modern.pdf" download="Boris-Paunovic-Modern-CV.pdf" >
+       <a   class="downloadCVHyperLink" href="../PortfolioWebsite/CV/Boris-Paunovic-CV-Modern.pdf" download="Boris-Paunovic-Modern-CV.pdf" >
 
         <div class="cvDownloadButton">
        <span class="downloadText">Download Modern CV</span> 
