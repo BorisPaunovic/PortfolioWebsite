@@ -19,6 +19,7 @@ This is a personal portfolio website built with Vue.js, showcasing my projects, 
 
 ## Project Structure
 
+```
 src/
 ├── components/
 │   ├── AboutPage.vue
@@ -30,7 +31,7 @@ src/
 ├── main.js
 ├── router.js
 └── ...
-
+```
 - **components/**: Contains the Vue components for each page of the website.
 - **App.vue**: The root component that serves as the entry point for the application.
 - **main.js**: The main JavaScript file that initializes the Vue application.
