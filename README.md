@@ -1,7 +1,8 @@
 # Personal Portfolio Website
 
 This is a personal portfolio website built with Vue.js, showcasing my projects, skills, work experience, and contact information.
-<p>This website is accessible in [Live Demo](https://borispaunovic.github.io/PortfolioWebsite/#/skils)</p>
+
+This website is accessible in [Live Demo](https://borispaunovic.github.io/PortfolioWebsite/#/skils)
 
 ## Features
 
