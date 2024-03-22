@@ -30,7 +30,7 @@ import TheWelcome from '../components/TheWelcome.vue'
     </div>
     
        <div class="imgContainer">
-        <img class="pictureMain" src="/Pictures/BorisPortfolioWebsdite2.png" alt="BorisImg">
+        <img class="pictureMain" src="/Pictures/BorisPortfolioWebsdite.svg" alt="BorisImg">
        
        
     </div>
